@@ -260,7 +260,6 @@ color: black;
 
 @media screen and (max-width:1024px){
   body{
-    background-color: #452d54;
   }
   .nav_menu{
     display: none;
