@@ -1,0 +1,33 @@
+export default function ContentBox(){
+
+    return <div className="content-box">
+        <div className="content-area">
+            <h1>About Yoga</h1>
+            <p>
+                Yoga is a holistic practice that weaves together movement, breath, and intention to create harmony within the body and mind. What began thousands of years ago as a spiritual discipline has evolved into a global practice embraced by people seeking strength, clarity, and inner peace. Through mindful postures, controlled breathing, and quiet reflection, yoga helps us reconnect with ourselves in a world that often demands constant motion. Each posture becomes an invitation to slow down, observe the present moment, and honor the body’s natural wisdom.
+
+At its core, yoga teaches balance—both physically and emotionally. As we stretch and strengthen the body, we also learn to cultivate patience, resilience, and grace. The breath becomes an anchor, guiding us through moments of challenge on and off the mat. Over time, practitioners often discover that the lessons learned in yoga—staying calm under pressure, listening inwardly, and moving with intention—begin to shape their daily lives in meaningful ways. This transformation doesn’t happen all at once; it unfolds gently, with each practice acting as a small step toward greater well-being.
+
+Yoga also supports emotional healing by creating space for stillness and self-awareness. In quiet moments of meditation or deep breathing, the mind becomes clearer and more spacious, helping to release stress, tension, and old patterns of thought. These practices nurture a sense of compassion, both toward oneself and others, encouraging a more mindful and grounded way of living. Many people find that yoga becomes not only a physical routine but a personal sanctuary—a place where they can return to themselves and breathe freely.
+
+Whether you are a beginner or a long-time practitioner, yoga offers something unique for everyone. It invites you to move at your own pace, to explore your edges with curiosity, and to celebrate progress in all forms. More than a workout, yoga is a journey of self-discovery—a practice that supports the body, quiets the mind, and opens the heart to a deeper sense of peace and purpose.<br/>
+
+Yoga is a holistic practice that weaves together movement, breath, and intention to create harmony within the body and mind. What began thousands of years ago as a spiritual discipline has evolved into a global practice embraced by people seeking strength, clarity, and inner peace. Through mindful postures, controlled breathing, and quiet reflection, yoga helps us reconnect with ourselves in a world that often demands constant motion. Each posture becomes an invitation to slow down, observe the present moment, and honor the body’s natural wisdom.
+
+At its core, yoga teaches balance—both physically and emotionally. As we stretch and strengthen the body, we also learn to cultivate patience, resilience, and grace. The breath becomes an anchor, guiding us through moments of challenge on and off the mat. Over time, practitioners often discover that the lessons learned in yoga—staying calm under pressure, listening inwardly, and moving with intention—begin to shape their daily lives in meaningful ways. This transformation doesn’t happen all at once; it unfolds gently, with each practice acting as a small step toward greater well-being.
+
+Yoga also supports emotional healing by creating space for stillness and self-awareness. In quiet moments of meditation or deep breathing, the mind becomes clearer and more spacious, helping to release stress, tension, and old patterns of thought. These practices nurture a sense of compassion, both toward oneself and others, encouraging a more mindful and grounded way of living. Many people find that yoga becomes not only a physical routine but a personal sanctuary—a place where they can return to themselves and breathe freely.
+
+Whether you are a beginner or a long-time practitioner, yoga offers something unique for everyone. It invites you to move at your own pace, to explore your edges with curiosity, and to celebrate progress in all forms. More than a workout, yoga is a journey of self-discovery—a practice that supports the body, quiets the mind, and opens the heart to a deeper sense of peace and purpose.<br/>
+
+Yoga is a holistic practice that weaves together movement, breath, and intention to create harmony within the body and mind. What began thousands of years ago as a spiritual discipline has evolved into a global practice embraced by people seeking strength, clarity, and inner peace. Through mindful postures, controlled breathing, and quiet reflection, yoga helps us reconnect with ourselves in a world that often demands constant motion. Each posture becomes an invitation to slow down, observe the present moment, and honor the body’s natural wisdom.
+
+At its core, yoga teaches balance—both physically and emotionally. As we stretch and strengthen the body, we also learn to cultivate patience, resilience, and grace. The breath becomes an anchor, guiding us through moments of challenge on and off the mat. Over time, practitioners often discover that the lessons learned in yoga—staying calm under pressure, listening inwardly, and moving with intention—begin to shape their daily lives in meaningful ways. This transformation doesn’t happen all at once; it unfolds gently, with each practice acting as a small step toward greater well-being.
+
+Yoga also supports emotional healing by creating space for stillness and self-awareness. In quiet moments of meditation or deep breathing, the mind becomes clearer and more spacious, helping to release stress, tension, and old patterns of thought. These practices nurture a sense of compassion, both toward oneself and others, encouraging a more mindful and grounded way of living. Many people find that yoga becomes not only a physical routine but a personal sanctuary—a place where they can return to themselves and breathe freely.
+
+Whether you are a beginner or a long-time practitioner, yoga offers something unique for everyone. It invites you to move at your own pace, to explore your edges with curiosity, and to celebrate progress in all forms. More than a workout, yoga is a journey of self-discovery—a practice that supports the body, quiets the mind, and opens the heart to a deeper sense of peace and purpose.
+            </p>
+        </div>
+    </div>
+}
